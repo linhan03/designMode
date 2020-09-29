@@ -1,5 +1,12 @@
 package observer;
 
+/**
+ * 观察者模式
+ * 设计原则：
+ * 1.为了交互对象之间的松耦合设计而努力
+ * 2.针对接口编程，不针对实现编程
+ * 3.多用组合，少用继承
+ */
 public class ControlCenter {
 
 
