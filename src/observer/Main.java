@@ -7,7 +7,7 @@ package observer;
  * 2.针对接口编程，不针对实现编程
  * 3.多用组合，少用继承
  */
-public class ControlCenter {
+public class Main {
 
 
     public static void main(String[] args) throws InterruptedException {

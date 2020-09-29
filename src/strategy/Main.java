@@ -7,7 +7,7 @@ package strategy;
  * 2.多用组合，少用继承
  * 3.
  */
-public class Control {
+public class Main {
 
     public static void main(String[] args) {
         BlackDuck blackDuck = new BlackDuck();
